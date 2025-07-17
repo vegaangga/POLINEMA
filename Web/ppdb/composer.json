@@ -1,0 +1,8 @@
+{
+    "name": "vega/ppdb",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "league/flysystem-aws-s3-v3": "~1"
+    }
+}
